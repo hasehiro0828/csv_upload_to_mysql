@@ -2,7 +2,7 @@
 
 CURRENT=$(cd $(dirname $0) && pwd)	# シェルスクリプトがあるディレクトリ
 DBUSER=root		# データベースユーザー名
-PASS="PMXuT7m84vf3xnKR99w5SI"		# データベースパスワード
+PASS="PASS"		# データベースパスワード
 DBNAME=information_about_school	# データベース名
 
 # 今日の日付を取得
